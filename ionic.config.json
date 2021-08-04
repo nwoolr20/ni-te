@@ -1,0 +1,8 @@
+{
+  "name": "@NiTE",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "baf9d951"
+}
