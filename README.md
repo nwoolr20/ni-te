@@ -2,6 +2,10 @@
 
 A modern mobile application built with Ionic Framework and Vue 3, featuring a responsive sidebar navigation and folder-based organization system.
 
+## Overview
+
+`@NiTE` showcases how to build a cross-platform mobile application with Ionic and Vue 3. It provides a mailbox-style layout with folder-based navigation and simple label management, demonstrating how familiar email workflows can be implemented with modern web technologies.
+
 ## Features
 
 - 📱 Cross-platform mobile app (iOS, Android, and PWA)
